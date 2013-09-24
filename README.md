@@ -10,7 +10,7 @@ Features:
 * Turns red for the last 30 seconds.
 * Resets by pressing the "." (often the 'blank' button on presentations remotes).
 
-To use: Load up the google doc presentation with everyones slides in it.  Open the javascript console and past in the contents of the js file.
+To use: Load up the google doc presentation with everyones slides in it.  Open the javascript console and paste in the contents of the js file.
 
 Known Issues (this is definitely a hack... there are many):
 * Only tested with Chrome and GoogleDocs as of 9/24/2013.
